@@ -1,0 +1,49 @@
+body {
+    margin: auto;
+    width: 50%;
+
+    padding: 10px;
+}
+
+wrapper {
+    margin: auto;
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    margin: auto;
+    display: flex;
+    width: 200px;
+    flex-wrap: wrap;
+}
+
+.startBtn {
+    margin: auto;
+    text-align: center;
+}
+
+.resetBtn {
+    margin: auto;
+    text-align: center;
+}
+
+.stats {
+    margin: auto;
+    text-align: center;
+}
+
+.house {
+    width: 10px;
+    height: 10px;
+    margin: 5px;
+    background-color: green;
+}
+
+.statistic {
+    font-weight: bold;
+}
+
+li {
+    list-style: none
+}
